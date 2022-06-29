@@ -26,6 +26,9 @@
     {if isset($debug_render)}
         {$debug_render->renderHead()}
     {/if}
+
+    <script src="../../app.js"></script>
+
 </head>
 <body>
 <div class="page {$class}">
