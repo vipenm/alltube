@@ -31,7 +31,7 @@
             "type": "image/png"
         },
         {
-            "src": "../img/logo_250.png",
+            "src": "../img/logo_512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
